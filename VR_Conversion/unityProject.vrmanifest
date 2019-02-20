@@ -1,0 +1,16 @@
+{
+  "source": "Unity",
+  "applications": [
+    {
+      "app_key": "application.generated.unity.vr_conversion.exe",
+      "launch_type": "url",
+      "url": "steam://launch/",
+      "action_manifest_path": "D:\\Github\\OpenVR_Unity_Tutorial\\VR_Conversion\\actions.json",
+      "strings": {
+        "en_us": {
+          "name": "VR_Conversion [Testing]"
+        }
+      }
+    }
+  ]
+}
